@@ -1,4 +1,4 @@
-:abc: English | [:mahjong: 简体中文](https://github.com/my8100/scrapyd-cluster-on-heroku/blob/master/README_CN.md)
+:abc: English |(https://github.com/my8100/scrapyd-cluster-on-heroku/blob/master/README_CN.md)
 
 # How to set up Scrapyd cluster on Heroku
 
